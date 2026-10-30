@@ -9,7 +9,8 @@
   "scripts": {
     "start": "electron .",
     "dist": "electron-builder --win nsis",
-    "build": "electron-builder --win nsis"
+    "build": "electron-builder --win nsis",
+    "vercel-build": "echo 'Static site ready'"
   },
   "devDependencies": {
     "electron": "^38.2.2",
