@@ -34,7 +34,7 @@ This project is an offline Windows desktop application built with Electron. No b
 
 <img width="1856" height="986" alt="Screenshot 2026-10-01 202852" src="https://github.com/user-attachments/assets/bd898dac-8b6b-479e-95c8-0b54e9aad6ec" />
 
-### Opion 2 - Browser Testing
+### Option 2 - Browser Testing
 
 For development/testing, index.html can also be opened in a browser or served using a local static web server.
 
@@ -46,7 +46,7 @@ Open the three-line menu → **App Settings** to change the maximum marks for In
 
 ## Demo Dataset (included)
 
-The **Load Demo** button now loads a large deterministic demo dataset with **70 students per department across 3 sections (A, B and C)** — 980 students across all 14 departments. Each department has department-specific sample subjects and varied attendance, previous-semester performance and assessment marks.
+The **Load Demo** button now loads a large deterministic demo dataset with **70 students per section across 3 sections (A, B and C) per department** — 2,940 students across all 14 departments (210 students per department). Each department has department-specific sample subjects and varied attendance, previous-semester performance and assessment marks.
 **Default Departments covered**
 - Artificial Intelligence and Data Science
 - Biomedical Engineering
